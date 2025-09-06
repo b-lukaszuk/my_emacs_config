@@ -664,7 +664,7 @@ Wymaga (instalacja z terminala):
 )
 
 ;; completion in *.jl files
-(use-package lsp-julia
+(use-package! lsp-julia
   :config
   (setq lsp-julia-default-environment "~/.julia/environments/v1.8")
   )
