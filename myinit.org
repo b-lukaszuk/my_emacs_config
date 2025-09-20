@@ -101,7 +101,7 @@
 
   ;; zasada 80 kolumny
   (global-display-fill-column-indicator-mode 1)
-  ; M-x customize-variable RET fill-column
+  (setq-default fill-column 80)
 
   (add-to-list 'image-types 'svg)
 
