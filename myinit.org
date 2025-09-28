@@ -995,6 +995,7 @@ otwiera repl-a haskella i laduje do niego aktualny plik
   :ensure t
   :defer t)
 
+(require 'company-ghci)
 (push 'company-ghci company-backends)
 (add-hook 'haskell-mode-hook 'company-mode)
 ;;; To get completions in the REPL
