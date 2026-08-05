@@ -28,5 +28,9 @@ Gdybym teraz zaczynal od zera wybralbym pewnie:
 [Doom Emacs](https://www.github.com/hlissner/doom-emacs)
 za rekomendacja: [Doom Emacs for Noobs](https://www.youtube.com/watch?v=iab2z21cRqA)
 
-## Do własnego użytku, nie powinno być używane przez nikogo innego. Może nie działać poprawnie<br>
-## For my personal use only, should not be used by anyone else. May not work correctly.
+
+# Warning
+
+**The content of this folder may be incorrect, erroneous and/or harmful. Use it at Your own risk.**
+
+**Zawartość niniejszego katalogu może być nieprawidłowa, błędna czy szkodliwa. Używaj na własne ryzyko.**
