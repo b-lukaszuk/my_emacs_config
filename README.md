@@ -29,8 +29,8 @@ Gdybym teraz zaczynal od zera wybralbym pewnie:
 za rekomendacja: [Doom Emacs for Noobs](https://www.youtube.com/watch?v=iab2z21cRqA)
 
 
-# Warning
-
-**The content of this folder may be incorrect, erroneous and/or harmful. Use it at Your own risk.**
+# Ostrzeżenie/Warning
 
 **Zawartość niniejszego katalogu może być nieprawidłowa, błędna czy szkodliwa. Używaj na własne ryzyko.**
+
+**The content of this folder may be incorrect, erroneous and/or harmful. Use it at Your own risk.**
